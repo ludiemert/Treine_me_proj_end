@@ -68,14 +68,6 @@ Live server with VScode or just clone folder and access index.html
 
 -------
 
-Clone the project and access the folder.
-
-```bash
-$ git clone https://github.com/ludiemert/Treine_me_proj_end.git
-$ cd treiname
-```
-
--------
 ## ✒️ Authors
 
  * **Rocketseat**
