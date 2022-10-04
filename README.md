@@ -72,7 +72,8 @@ Live server with VScode or just clone folder and access index.html
 
  * **Rocketseat**
 
-* **Luciana Diemert ** - *Trabalho Inicial* - [Lu Diemert](https://www.linkedin.com/in/lucianadiemert/)
+- ## My LinkedIn - [![Linkedin Badge](https://img.shields.io/badge/-LucianaDiemert-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucianadiemert/)](https://www.linkedin.com/in/lucianadiemert/)
+
 ------------------
 
 ## 🎁 Thanks to: 
